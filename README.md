@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+* 😎 My name is Nut Chukamphaeng
+* 🌓 Research interests: Decision Making, Recommendation System, Multi-Arm Bandit, Reinforcement Learning, Applied RL
+* 🇹🇭 Bangkok
+* 📫 [LinkedIn](https://www.linkedin.com/in/nutorbit/)
+
 <!--
 **nutorbit/nutorbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
