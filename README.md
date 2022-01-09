@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 😎 My name is Nut Chukamphaeng
-* 🌓 Research interests: Decision Making, Recommendation System, Multi-Arm Bandit, Reinforcement Learning, Applied RL
+* 🌓 Research interests: Decision Making, Recommendation System, Reinforcement Learning, Causal Inference
 * 🇹🇭 Bangkok
 * 📫 [LinkedIn](https://www.linkedin.com/in/nutorbit/)
 
