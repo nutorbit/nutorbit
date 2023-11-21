@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 😎 My name is Nut Chukamphaeng
-* 🌓 Research interests: Decision Making, Recommendation System, Reinforcement Learning, Causal Inference
+* 🌓 Research interests: Recommendation System, Reinforcement Learning, Large Language Model
 * 🇹🇭 Bangkok
 * 📫 [LinkedIn](https://www.linkedin.com/in/nutorbit/)
 
